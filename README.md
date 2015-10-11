@@ -1,2 +1,6 @@
 # hello-world
-General ideas and practice
+==============
+
+Hello
+
+Total noob coder about to start a bootcamp in London tomorrow! Super psyched!
